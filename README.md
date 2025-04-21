@@ -1,6 +1,8 @@
 # verificador-de-imagens.py 🖼🔧
 um script que verifica links de imagens, testa se os links estão funcionando e filtra os links das imagens que funcionam, e as organiza para você visualizar em uma página. feito em python 🐍🖼️
 
+(por favor deixe sua estrelinha)
+
 ## Como funciona 🤔
 - Cole seus links de arquivos de imagem válidos no arquivo `urls.txt`, seguindo a formatação padrão (um em baixo do outro, sem markdown, sem formatação especial, apenas a separação de linha com a tecla ENTER)
 - Inicialize o script. Após isso, ele iniciará a verificação dos links e retornará quais links são válidos e estão funcionando.
